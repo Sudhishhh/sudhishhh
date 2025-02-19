@@ -1,16 +1,13 @@
-## Hi there 👋
+- 👋 Hi, I’m Sudhish
+- 👀 I’m interested in creating extensions for chrome 
+- 🌱 I’m currently learning html, css and js
+- 📫 Connect with me on discord 'skxopw'
 
-<!--
-**Sudhishhh/sudhishhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                ⚡ Current Stats⚡
 
-Here are some ideas to get you started:
+![Sudhish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhishhh&hide=contribs,prs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+skxopw/skxopw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
