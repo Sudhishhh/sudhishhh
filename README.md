@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning html, css and js
 
 
-                                                                ⚡ Current Stats⚡
+                                                                 ⚡ Current Stats⚡
 
 ![Sudhish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhishhh&hide=contribs,prs)
 
