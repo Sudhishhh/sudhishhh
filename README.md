@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudhish
-- 🌱 I’m currently learning html, css and js
+- 🌱
 
 
                                                                  ⚡ Current Stats⚡
